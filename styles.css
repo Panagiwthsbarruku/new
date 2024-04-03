@@ -1,0 +1,68 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+ body{
+   margin: 10% auto;
+}
+ form{
+  border: 2px solid ;
+  height: 350px;
+   width: 390px;
+    margin: 10% auto;
+    border-radius: 10px;
+}
+.w-5{ 
+  text-align: center;
+ font-family: 'Courier New', Courier, monospace;
+}
+ input[type="text"],
+ input[type="password"]{
+ display: block;
+ margin: auto;
+  border: none;
+  background-color: aliceblue;
+  margin-top: 3%;
+  height: 25px;
+  border-radius: 5px;
+  width: 170px;
+}
+.btn-submit{
+   margin: 10% auto;
+   display: block;
+    border: none;
+    height: 30px;
+    width: 130px;
+    background-color: aliceblue;
+}
+.btn-submit:hover{
+   background-color: black;
+    color: aliceblue;
+}
+ span{
+  margin: 30%;
+   
+}
+ input[type="checkbox"]{
+  margin-top: 20px;
+}
+.h-5{
+   text-align: center;
+}
+.Google{
+  font-size: 100;
+  width: 180px;
+  height: 35px;
+  margin-left: 5%;
+  padding: -23px;
+  border-radius: 10px;
+  border: none;
+  background-color: aliceblue;
+}
+.Apple{
+    font-size: 100;
+  width: 180px;
+  height: 35px;
+  padding: -23px;
+  border-radius: 10px;
+  border: none;
+  background-color: aliceblue;
+}
